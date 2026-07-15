@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://orman-glass-57bf5634.zappy5.app
+https://example.com
 שדרגו את חדר הרחצה בעיצוב כפרי יוקרתי עם דלתות מקלחת זכוכית ומראות לד מרחפות בעיצוב אישי. פתרונות מותאמים לכל חלל, אלגנטיות ופונקציונליות נפגשות כאן.
 
 ### אודות
-https://orman-glass-57bf5634.zappy5.app/about
+https://example.com/about
 הכירו את הסיפור של אורמן גלאס, סטודיו בוטיק לעיצוב חדרי רחצה המתמחה במראות לד צפות ומחיצות זכוכית. אנו משלבים אסתטיקה מודרנית עם טכנולוגיית תאורה חדשנית להתאמה אישית מלאה.
 
 ### גלריה
-https://orman-glass-57bf5634.zappy5.app/gallery
+https://example.com/gallery
 צפו בגלריה של פרויקטים מעוצבים: חדרי רחצה בסגנון כפרי, שילובי שחור-לבן קלאסיים ורעיונות לחללים קטנים. כל תמונה מדגימה את הדיוק והיופי של פתרונות הזכוכית והתאורה שלנו.
 
 ### צור קשר
-https://orman-glass-57bf5634.zappy5.app/contact
+https://example.com/contact
 מוכנים לשדרג את חדר הרחצה? צרו קשר לייעוץ אישי והצעת מחיר לפתרונות זכוכית ומראות לד בהתאמה אישית. הצוות שלנו מחכה להפוך את החזון שלכם לחלל יוקרתי ופונקציונלי.
 
 ### Products
-https://orman-glass-57bf5634.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Orman glass
 
 ### Cart
-https://orman-glass-57bf5634.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://orman-glass-57bf5634.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://orman-glass-57bf5634.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://orman-glass-57bf5634.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://orman-glass-57bf5634.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://orman-glass-57bf5634.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Orman glass
 
 ### Category
-https://orman-glass-57bf5634.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Orman glass
 
 ### תודה שפניתם אלינו
-https://orman-glass-57bf5634.zappy5.app/thank-you
+https://example.com/thank-you
 Orman glass - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://orman-glass-57bf5634.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://orman-glass-57bf5634.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://orman-glass-57bf5634.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Home Decor & Bathroom Design
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://orman-glass-57bf5634.zappy5.app/sitemap.xml
-- Robots: https://orman-glass-57bf5634.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://orman-glass-57bf5634.zappy5.app/llms-full.txt
-- Products (JSON): https://orman-glass-57bf5634.zappy5.app/products.json
-- Products (Google Merchant RSS): https://orman-glass-57bf5634.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
