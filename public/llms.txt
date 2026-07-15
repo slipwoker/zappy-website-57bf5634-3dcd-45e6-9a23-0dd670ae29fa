@@ -1,0 +1,104 @@
+# Orman glass — Generative Engine Optimization Map
+
+> A boutique bathroom design business specializing in custom-sized designer shower enclosures and floating LED mirrors. The brand focuses on bespoke, made-to-measure solutions, combining modern aesthetics with functional lighting design. The business caters to customers seeking premium, tailored bathroom décor that blends elegance with contemporary LED technology.
+
+---
+
+## Pages
+
+### בית
+https://orman-glass-57bf5634.zappy5.app
+שדרגו את חדר הרחצה בעיצוב כפרי יוקרתי עם דלתות מקלחת זכוכית ומראות לד מרחפות בעיצוב אישי. פתרונות מותאמים לכל חלל, אלגנטיות ופונקציונליות נפגשות כאן.
+
+### אודות
+https://orman-glass-57bf5634.zappy5.app/about
+הכירו את הסיפור של אורמן גלאס, סטודיו בוטיק לעיצוב חדרי רחצה המתמחה במראות לד צפות ומחיצות זכוכית. אנו משלבים אסתטיקה מודרנית עם טכנולוגיית תאורה חדשנית להתאמה אישית מלאה.
+
+### גלריה
+https://orman-glass-57bf5634.zappy5.app/gallery
+צפו בגלריה של פרויקטים מעוצבים: חדרי רחצה בסגנון כפרי, שילובי שחור-לבן קלאסיים ורעיונות לחללים קטנים. כל תמונה מדגימה את הדיוק והיופי של פתרונות הזכוכית והתאורה שלנו.
+
+### צור קשר
+https://orman-glass-57bf5634.zappy5.app/contact
+מוכנים לשדרג את חדר הרחצה? צרו קשר לייעוץ אישי והצעת מחיר לפתרונות זכוכית ומראות לד בהתאמה אישית. הצוות שלנו מחכה להפוך את החזון שלכם לחלל יוקרתי ופונקציונלי.
+
+### Products
+https://orman-glass-57bf5634.zappy5.app/products
+המוצרים שלנו - Orman glass
+
+### Cart
+https://orman-glass-57bf5634.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://orman-glass-57bf5634.zappy5.app/checkout
+תשלום
+
+### Login
+https://orman-glass-57bf5634.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://orman-glass-57bf5634.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://orman-glass-57bf5634.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://orman-glass-57bf5634.zappy5.app/product/:slug
+פרטי המוצר - Orman glass
+
+### Category
+https://orman-glass-57bf5634.zappy5.app/category/:slug
+מוצרים - Orman glass
+
+### תודה שפניתם אלינו
+https://orman-glass-57bf5634.zappy5.app/thank-you
+Orman glass - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://orman-glass-57bf5634.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://orman-glass-57bf5634.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://orman-glass-57bf5634.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Orman glass
+A boutique bathroom design business specializing in custom-sized designer shower enclosures and floating LED mirrors. The brand focuses on bespoke, made-to-measure solutions, combining modern aesthetics with functional lighting design. The business caters to customers seeking premium, tailored bathroom décor that blends elegance with contemporary LED technology.
+
+## Target Audience
+- בעלי בתים יוקרתיים
+- מעצבי פנים
+- רוכשי בתים חדשים
+
+## Industry
+Home Decor & Bathroom Design
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://orman-glass-57bf5634.zappy5.app/sitemap.xml
+- Robots: https://orman-glass-57bf5634.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://orman-glass-57bf5634.zappy5.app/llms-full.txt
+- Products (JSON): https://orman-glass-57bf5634.zappy5.app/products.json
+- Products (Google Merchant RSS): https://orman-glass-57bf5634.zappy5.app/product-feed.xml
